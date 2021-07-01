@@ -16,4 +16,4 @@ phases:
       - yarn
 artifacts:
   files:
-    - "/*"  
+    - "hello/**/*"  
